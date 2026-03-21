@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../New vs/.venv/etc"
+		},
+		{
+			"path": "../New vs/.venv/Include"
+		},
+		{
+			"path": "../New vs/.venv/Lib"
+		},
+		{
+			"path": "../New vs/.venv/Scripts"
+		},
+		{
+			"path": "../New vs/.venv/share"
+		}
+	]
+}
